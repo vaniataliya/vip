@@ -32,7 +32,7 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "  Welcome To Kyt Project Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "     This Will Quick Setup VPN Server On Your Server"
-echo -e "         Auther : ${green}MYRIDWAN ${NC}${YELLOW}(${NC} ${green}Geo Project ${NC}${YELLOW})${NC}"
+echo -e "         Auther : ${green}MAZHAB ${NC}${YELLOW}(${NC} ${green}Geo Project ${NC}${YELLOW})${NC}"
 echo -e "       © Recode By Geo Project ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
@@ -55,8 +55,8 @@ checking_sc() {
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mTelegram${NC} t.me/Kytxz"
-    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6281774970898"
+    echo -e "      \033[0;36mTelegram${NC} t.me/------"
+    echo -e "      ${GREEN}WhatsApp${NC} wa.me/---------"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
