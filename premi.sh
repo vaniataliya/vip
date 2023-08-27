@@ -950,12 +950,13 @@ print_success "All Packet"
 
 #Instal Menu
 function menu(){
+    cd
     clear
     print_install "Memasang Menu Packet"
     wget ${REPO}menu/menu.zip
     unzip menu.zip
-    chmod +x menu/*
     mv menu/* /usr/local/sbin
+    chmod +x /usr/local/sbin/*
     rm -rf menu
     rm -rf menu.zip
 }
